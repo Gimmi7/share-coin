@@ -1,0 +1,9 @@
+build
+contracts/artifacts/
+.env
+node_modules
+
+.vscode
+.idea
+.DS_Store
+**/.gitkepp
